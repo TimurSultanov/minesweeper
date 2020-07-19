@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="action">Action</string>
+    <string name="send">Send</string>
+    <string name="field_size">Field size (col, row)</string>
+    <string name="how_many_mines">How many mines</string>
+    <string name="start">Start</string>
+    <string name="action_free">free</string>
+    <string name="action_mine">mine</string>
+</resources>
